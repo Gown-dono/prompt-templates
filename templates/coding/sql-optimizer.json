@@ -1,0 +1,15 @@
+{
+  "id": "community-sql-optimizer",
+  "title": "SQL Query Optimizer",
+  "category": "Coding",
+  "tags": ["sql", "database", "optimization", "performance"],
+  "content": "Analyze and optimize this SQL query:\n\n```sql\n[PASTE YOUR SQL QUERY]\n```\n\n**Database:** [MySQL/PostgreSQL/SQL Server/etc.]\n**Table sizes:** [APPROXIMATE ROW COUNTS]\n**Current execution time:** [IF KNOWN]\n\nPlease provide:\n1. Analysis of current query issues\n2. Optimized query version\n3. Recommended indexes\n4. Explanation of improvements\n5. Estimated performance gain",
+  "description": "Optimize SQL queries for better performance",
+  "author": "Community",
+  "version": "1.0",
+  "submittedBy": "Gown-dono",
+  "submittedDate": "2025-12-14T00:00:00Z",
+  "lastUpdated": "2025-12-14T00:00:00Z",
+  "dependencies": [],
+  "licenseType": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "community-ux-review",
+  "title": "UX Design Review",
+  "category": "Design",
+  "tags": ["ux", "design", "accessibility", "usability"],
+  "content": "Review this UI/UX design and provide feedback:\n\n**Design Description:** [DESCRIBE THE INTERFACE]\n**Target Users:** [WHO WILL USE THIS]\n**Platform:** [Web/Mobile/Desktop]\n**Key User Goals:** [WHAT USERS WANT TO ACCOMPLISH]\n\nPlease evaluate:\n1. **Usability**: Is it intuitive and easy to use?\n2. **Accessibility**: WCAG compliance issues\n3. **Visual Hierarchy**: Information organization\n4. **User Flow**: Path to complete key tasks\n5. **Consistency**: Design pattern adherence\n6. **Recommendations**: Specific improvements with rationale",
+  "description": "Get comprehensive UX feedback on your designs",
+  "author": "Community",
+  "version": "1.0",
+  "submittedBy": "Gown-dono",
+  "submittedDate": "2025-12-14T00:00:00Z",
+  "lastUpdated": "2025-12-14T00:00:00Z",
+  "dependencies": [],
+  "licenseType": "MIT"
+}

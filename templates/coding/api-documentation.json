@@ -1,0 +1,15 @@
+{
+  "id": "community-api-docs",
+  "title": "API Documentation Generator",
+  "category": "Coding",
+  "tags": ["api", "documentation", "openapi"],
+  "content": "Generate API documentation for the following endpoint:\n\n**Endpoint:** [METHOD] [PATH]\n**Description:** [BRIEF DESCRIPTION]\n\n**Request:**\n```\n[REQUEST BODY/PARAMS]\n```\n\n**Response:**\n```\n[RESPONSE BODY]\n```\n\nPlease generate:\n1. OpenAPI/Swagger specification\n2. Human-readable documentation\n3. Example requests (cURL, JavaScript, Python)\n4. Error response documentation",
+  "description": "Generate comprehensive API documentation from code",
+  "author": "Community",
+  "version": "1.0",
+  "submittedBy": "Gown-dono",
+  "submittedDate": "2025-12-14T00:00:00Z",
+  "lastUpdated": "2025-12-14T00:00:00Z",
+  "dependencies": [],
+  "licenseType": "MIT"
+}
